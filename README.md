@@ -1,5 +1,3 @@
 # Tristan Girardi
 
-ACLHack
-
-*March 27*
+**March 27*
